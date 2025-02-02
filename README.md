@@ -28,7 +28,7 @@ This project is a web-based application that recommends similar movies based on 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/movie-recommender-system.git
+git clone https://github.com/IvanNilash1206/movie-recommender-system.git
 cd movie-recommender-system
 ```
 
@@ -61,16 +61,12 @@ streamlit run app.py
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/movie-recommender-system/issues).
-
-## 📝 License
-
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/IvanNilash1206/movie-recommender-system/issues).
 
 ## 👨‍💻 Author
 
-Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
+Ivan Nilash
+- GitHub: [@IvanNilash1206](https://github.com/IvanNilash1206)
 
 ## 🙏 Acknowledgments
 
